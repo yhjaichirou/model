@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 04 09:43:59 CST 2020
+hutool-all-5.0.6-sources.jar>central=
+hutool-all-5.0.6.jar>central=
+hutool-all-5.0.6.pom>central=
